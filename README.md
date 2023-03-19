@@ -6,7 +6,7 @@
 
 <h2>Objetivo do projeto</h2>
 
-<p>Colocando em prática os conhecimentos adquiridos neste módulo, que tem como seu principal objetivo conseguir realizar o efeito parallax</p>
+<p>Colocando em prática os conhecimentos adquiridos neste módulo, que tem como seu principal objetivo conseguir realizar o efeito parallax, Este efeito é causado pela ilusão de ótica e dá a sensação de profundidade à página, oferecendo, ao visitante, uma experiência mais imersiva.</p>
 
 <h2>Oque foi usado</h2>
 
